@@ -1,5 +1,5 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center;">        
-   <img style="margin-right: 10px" src="./img/html.png" width="8%">
+<div align="center">        
+   <img src="./img/html.png" width="150px">
    <h1>HTML Web Developer</h1>
 </div>
 
