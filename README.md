@@ -1,11 +1,6 @@
-<div align="center">        
-   <table>
-      <thead>
-         <th><img src="./img/dio.png"></th>
-          <th><img src="./img/html.png" width="60px"></th>
-         <th><h1>HTML Web Developer</h1></th>
-      </thead>
-   </table>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">        
+   <img style="margin-right: 10px" src="./img/html.png" width="8%">
+   <h1>HTML Web Developer</h1>
 </div>
 
 <h3 align="center">
