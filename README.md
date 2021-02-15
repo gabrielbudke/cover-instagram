@@ -10,7 +10,7 @@
 
 ## :computer: Projeto
 
-Esse repositóro é destinado ao projeto de reconstruir a pagina inical do Instagram abordando alguns conceitos de CSS. 
+Esse repositóro é destinado ao projeto de reconstruir a pagina inicial do Instagram abordando alguns conceitos de CSS. 
 
 Esse projeto foi ministrado pela [Digital Inovation One](https://web.digitalinnovation.one/home).
 
